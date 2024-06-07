@@ -1,0 +1,22 @@
+1. Variable metadata
+
+Q1: Using the questionnaire-codebook document, determine which SPSS variable name represents the data collected from question: “My tweet has been published in what time zone?”
+
+- When importing the dataset from excel the "Sent+" and "Sent-" variable name contain an illegal character (which is "+" and "-"). So SPSS change it to "Sent" and "Sent_A" which is not usefull. To combat this issue we can rename "Sent+" to "SentPos" and "Sent-" to "SentNeg"
+
+Q2: What is the size of the sample recorded in this dataset?
+
+- size smaple = 91303
+
+Q3: How many followers has Tweet with id=745607911993270020?
+
+- 89169 followers (userScreenName=pdacosta)
+
+Q4: What is the level of measurement of the variable SentPos?
+
+-The level of measurement is negative
+
+Q5: How many distinct values are associated with the variable SentNeg?
+
+-When analyzing "SentNeg", the minium value= -1 & maximum value= -5 meaning that it cotains 5=distinct values 
+

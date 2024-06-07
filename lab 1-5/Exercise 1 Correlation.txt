@@ -1,0 +1,20 @@
+Q1: Is the relationship roughly linear?
+- No the relationship is not linear (very roughly)
+Q2: Is the correlation positive or negative
+- There is no correlation at all (slightly negative)
+Q3: Is this direction consistent with the hypothesis posited at the start of this exercise
+-No at all
+Q4: What are the id numbers of the two most extreme cases where the respondents reported not feeling sleepy at all, yet were still highly dissatisfied with the amount of sleep they were achieving?
+-200,298
+Q5: What is the Pearson correlation coefficient of correlation between totsas and satsleep (to 3
+dp)?
+- -0.476
+Q6: Is this statistically significant to at least the 0.05 level? 
+- value of sig (2-tailed) is <.001 meaning there is a significant difference in the result as it is less than 0.05
+Q7: According to the guide described in the lecture, is this a small, medium or large correlation? 
+-When using Eta squared = t2/ (t2+ N – 1) the value of eta squared is 0.633 meaning there is a large effect
+Q8: If people were perfectly accurate/truthful judges of their own weight, what would you expect the correlation between these two measures of weight to be?
+-inconsistent
+Q9: Compute the actual correlation coefficient and, from this, derive the proportion of variance
+shared between the two variables. What is this value?
+-0.165

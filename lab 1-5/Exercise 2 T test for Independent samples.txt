@@ -1,0 +1,12 @@
+Q10: Which one is the independent variable? 
+-totsas
+Q11: Can the group variances be considered equal (according to Levene’s test)? 
+-The value of p>0.05 (0.078) meaning there is no significant difference in the result, meaning these group variances are to be considered equal according to Levene's test.
+Q12: What is the t-score for this difference (to 3 dp)?
+-(Equal variances assumed) t=4.836
+Q13: What is the p-value and is this significant?
+-The value of p=.078 and there is no significant differences since p>.05
+Q14: What is the effect size (to 2 dp)?
+-using Eta square=t^2/(t^2 +(N1+N2 -2)) value of eta square=.008746
+Q15: According to the guidelines described in the lecture slides (originally proposed by Cohen, 1988), is this a small, moderate or large effect?
+-The effect on result is greater than .06 but less than .14 meaning the effect is moderate

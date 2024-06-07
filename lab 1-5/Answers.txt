@@ -1,0 +1,42 @@
+X§xQ1: Is the relationship roughly linear?
+- No the relationship is not linear (very roughly)
+Q2: Is the correlation positive or negative
+- There is no correlation at all (slightly negative)
+Q3: Is this direction consistent with the hypothesis posited at the start of this exercise
+-No at all
+Q4: What are the id numbers of the two most extreme cases where the respondents reported not feeling sleepy at all, yet were still highly dissatisfied with the amount of sleep they were achieving?
+-200,298
+Q5: What is the Pearson correlation coefficient of correlation between totsas and satsleep (to 3
+dp)?
+- -0.476
+Q6: Is this statistically significant to at least the 0.05 level? 
+- value of sig (2-tailed) is <.001 meaning there is a significant difference in the result as it is less than 0.05
+Q7: According to the guide described in the lecture, is this a small, medium or large correlation? 
+-When using Eta squared = t2/ (t2+ N – 1) the value of eta squared is 0.633 meaning there is a large effect
+Q8: If people were perfectly accurate/truthful judges of their own weight, what would you expect the correlation between these two measures of weight to be?
+-inconsistent
+Q9: Compute the actual correlation coefficient and, from this, derive the proportion of variance
+shared between the two variables. What is this value?
+-0.165
+
+
+Q10: Which one is the independent variable? 
+-totsas
+Q11: Can the group variances be considered equal (according to Levene’s test)? 
+-The value of p>0.05 (0.078) meaning there is no significant difference in the result, meaning these group variances are to be considered equal according to Levene's test.
+Q12: What is the t-score for this difference (to 3 dp)?
+-(Equal variances assumed) t=4.836
+Q13: What is the p-value and is this significant?
+-The value of p=.078 and there is no significant differences since p>.05
+Q14: What is the effect size (to 2 dp)?
+-using Eta square=t^2/(t^2 +(N1+N2 -2)) value of eta square=.008746
+Q15: According to the guidelines described in the lecture slides (originally proposed by Cohen, 1988), is this a small, moderate or large effect?
+-The effect on result is greater than .06 but less than .14 meaning the effect is moderate
+
+Q16. What is the t-value for this difference (3 dp)?
+- -12.364
+Q17. What is the p-value and is this significant?
+- p<0.001 therefore highly significant and the result wasn't due to chance
+Q18. How big is the effect size (1 dp)?
+-Using eta squared=t^2/t^2+(N1+N2-2) t=-12.364 N1=269 N2=0 t^2=152.868496 419.868496 eta=0.364085739631821 
+Meaning it has a large effect as it's greater than 
